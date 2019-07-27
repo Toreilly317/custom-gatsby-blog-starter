@@ -54,5 +54,6 @@ module.exports = {
         plugins: [],
       },
     },
+    `gatsby-plugin-netlify`, //Must be kept last
   ],
 }

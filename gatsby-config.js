@@ -54,6 +54,7 @@ module.exports = {
         plugins: [],
       },
     },
+    "gatsby-plugin-sitemap",
     `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-netlify`, //Must be kept last
   ],

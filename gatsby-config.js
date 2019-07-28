@@ -3,6 +3,7 @@ module.exports = {
     title: `Taylor O'Reilly`,
     description: `Portfolio site for Taylor O'Reilly. A full stack JavaScript developer from Boston, MA`,
     author: `Taylor O'Reilly`,
+    siteUrl: "https://hopeful-kare-3a4f46.netlify.com",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

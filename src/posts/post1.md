@@ -1,5 +1,5 @@
 ---
-slug: "make-it-slap-part-1"
+slug: "post-1"
 title: "First Post"
 date: "2019-07-26"
 ---

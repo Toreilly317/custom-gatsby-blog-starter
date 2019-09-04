@@ -1,10 +1,10 @@
 ---
-slug: "make-it-slap-part-2"
+slug: "the-second-post"
 title: "Second Post"
 date: "2019-07-27"
 ---
 
-# BOOM GOES THE BASS
+# TypeScript: Is it worth the hype?
 
 Lorem ipsum dolor amet roof party shaman fanny pack leggings. Air plant you probably haven't heard of them pug messenger bag godard neutra kickstarter literally vegan pork belly succulents selfies intelligentsia. Farm-to-table schlitz plaid chicharrones artisan viral. Twee chambray poke marfa celiac vaporware dreamcatcher hot chicken venmo adaptogen narwhal helvetica heirloom taxidermy. Hella chicharrones godard vape. Tattooed chillwave bespoke pickled. Kickstarter pinterest keytar heirloom kombucha four dollar toast fixie, skateboard vape fashion axe.
 
